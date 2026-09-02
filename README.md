@@ -5,7 +5,6 @@
 
 🚀 Building high-performance, low-latency interfaces at scale  
 🌍 Remote · Consumer + Trading + Web3 Systems  
-📩 contact@vincenzoconsulting.dev  
 
 ---
 
@@ -107,7 +106,5 @@ I also mentor engineers in:
 
 If you're building something ambitious in **Web3, fintech, AI, or consumer platforms**,  
 I’d love to connect.
-
-📩 **contact@vincenzoconsulting.dev**
 
 </div>
